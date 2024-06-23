@@ -21,6 +21,8 @@ The LangChain Restaurant Menu Generator allows users to select a cuisine from a 
 1. **Clone the repository**
     ```sh
     git clone https://github.com/arsh248/Langchain_Restaurant_Menu_Generator.git
+    cd Langchain_Restaurant_Menu_Generator
+
     ```
 
 2. **Create and activate a virtual environment**
