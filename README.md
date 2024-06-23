@@ -2,6 +2,9 @@
 
 This project is a web application that generates a restaurant name and menu items based on the selected cuisine using the Streamlit framework and LangChain library.
 
+<img width="1512" alt="Screenshot 2024-06-24 at 12 38 03 AM" src="https://github.com/arsh248/Langchain_Restaurant_Menu_Generator/assets/62460837/fbaf76ef-99bd-4152-84fc-761460899f03">
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
